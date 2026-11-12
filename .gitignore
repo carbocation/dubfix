@@ -1,0 +1,11 @@
+/build/
+/dubfix-data/
+/backups/
+/runs/
+/reports/
+*.bin
+*.o
+*.pcap
+*.pcapng
+.DS_Store
+__pycache__/
